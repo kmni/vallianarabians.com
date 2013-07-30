@@ -1,0 +1,149 @@
+ 
+body {
+	 
+ 
+ 
+	margin: 0px;
+	background-image:url(../images/bg.gif);
+ 
+ 
+ 
+	 
+}
+ 
+ 
+.toplink{
+ 
+ font-family: Arial, Helvetica, sans-serif;
+font-size: 12px;
+font-weight:bold;
+color:#FFFFFF;
+text-decoration: none;
+height:20px;
+width:124px;
+    display:block;
+	 margin-top:3px;
+	     line-height:19px;
+		  text-align:left;
+	 
+ 
+}
+ 
+ 
+.toplink:hover{
+font-family: Arial, Helvetica, sans-serif;
+font-size: 12px;
+font-weight:bold;
+color:#FFFFFF;
+text-decoration: none;
+background-image:url(../images/hover.gif);
+height:20px;
+width:124px;
+    display:block;
+	    line-height:19px;
+ 
+}
+
+.heading{
+ 
+ font-family: verdana, Arial, Helvetica, sans-serif;
+font-size: 21px;
+font-weight:normal;
+color:#652a0d;
+text-decoration: none;
+
+}
+ 
+ 
+.subheading{
+ 
+ font-family: verdana, Arial, Helvetica, sans-serif;
+font-size: 12px;
+font-weight:bold;
+color:#652a0d;
+text-decoration: none;
+}
+ 
+ 
+
+.content{
+ font-family: Verdana, Helvetica, sans-serif;
+font-size: 12px;
+font-weight:normal;
+color:#060637;
+text-decoration: none;
+line-height: 19px;
+
+}
+
+.blueheading{
+ font-family: verdana, Arial, Helvetica, sans-serif;
+font-size: 16px;
+font-weight:bold;
+color:#08324b;
+text-decoration: none;
+
+}
+.more{
+ font-family: verdana, Arial, Helvetica, sans-serif;
+font-size: 10px;
+font-weight:normal;
+color:#08324b;
+text-decoration: none;
+ 
+}
+.more:hover{
+ font-family: verdana, Arial, Helvetica, sans-serif;
+font-size: 10px;
+font-weight:normal;
+color:#08324b;
+text-decoration: underline;
+ 
+}
+ 
+ img.horse
+{
+    border:solid 2px #ffffff;
+ 
+    
+}
+.background
+{
+  filter:alpha(opacity=80);
+	opacity: 0.80;
+	-moz-opacity:0.80;
+	background-color: #c1cbd0
+	}
+	
+	.footerlink{
+ font-family: verdana, Arial, Helvetica, sans-serif;
+font-size: 10px;
+font-weight:normal;
+color:#b95a2c;
+text-decoration: none;
+ 
+}
+.footerlink:hover{
+ font-family: verdana, Arial, Helvetica, sans-serif;
+font-size: 10px;
+font-weight:normal;
+color:#b95a2c;
+text-decoration: underline;
+
+
+}
+
+.link2{
+ font-family: verdana, Arial, Helvetica, sans-serif;
+font-size: 12px;
+font-weight:normal;
+color:#B25432;
+text-decoration: none;
+
+}
+.link2:hover{
+ font-family: verdana, Arial, Helvetica, sans-serif;
+font-size: 12px;
+font-weight:normal;
+color:#B25432;
+text-decoration: underline;
